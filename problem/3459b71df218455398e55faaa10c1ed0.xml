@@ -1,0 +1,48 @@
+<problem display_name="Multiple Choice" markdown=" 1. In P and I diagram The symbol represents&#10;(x) Solenoid Valve&#10;() Control Valve&#10;() Globe Valve&#10;&#10;2) CTR function block stands for&#10;() Counter and Timer&#10;(x) Counter&#10;() Clock timer&#10;&#10;3) The limit switch is --------------&#10;() Digital Output&#10;(x) Digital Input&#10;() Analog Input&#10;&#10;4) Solenoid Valve is -------&#10;() Analog Input&#10;() Digital input&#10;(x) Digital output&#10;&#10;5) To manually change the input to the function block, the simulate input must be&#10;() Kept in default condition&#10;() Disabled&#10;(x) Enabled">
+<p> 1. In P and I diagram The symbol represents</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Solenoid Valve</choice>
+    <choice correct="false">Control Valve</choice>
+    <choice correct="false">Globe Valve</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2) CTR function block stands for</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Counter and Timer</choice>
+    <choice correct="true">Counter</choice>
+    <choice correct="false">Clock timer</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3) The limit switch is --------------</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Digital Output</choice>
+    <choice correct="true">Digital Input</choice>
+    <choice correct="false">Analog Input</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4) Solenoid Valve is -------</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Analog Input</choice>
+    <choice correct="false">Digital input</choice>
+    <choice correct="true">Digital output</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5) To manually change the input to the function block, the simulate input must be</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Kept in default condition</choice>
+    <choice correct="false">Disabled</choice>
+    <choice correct="true">Enabled</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

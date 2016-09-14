@@ -1,0 +1,48 @@
+<problem display_name="Multiple Choice" markdown=" 1. Which signal is used for any analog function block?&#10;() 1V- 5V&#10;() 4-20mA&#10;(x) Both a and b&#10;&#10;2) What is the major difference between input and output function block?&#10;() Output block does not have input connection available&#10;(x) Output block has feedback connection available&#10;() Input block has feedback connection available&#10;&#10;3) The PID function is available in ---------- block category&#10;(x) Analog control&#10;() Math&#10;() Logic&#10;&#10;4) The scan time of DCS is fixed. This statement is&#10;(x) False&#10;() True&#10;() Can't comment&#10;&#10;5) Generally in DCS ------------- is used as a programming language.&#10;() Instruction listing&#10;(x) Functional block diagram&#10;() Ladder diagram">
+<p> 1. Which signal is used for any analog function block?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">1V- 5V</choice>
+    <choice correct="false">4-20mA</choice>
+    <choice correct="true">Both a and b</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2) What is the major difference between input and output function block?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Output block does not have input connection available</choice>
+    <choice correct="true">Output block has feedback connection available</choice>
+    <choice correct="false">Input block has feedback connection available</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3) The PID function is available in ---------- block category</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Analog control</choice>
+    <choice correct="false">Math</choice>
+    <choice correct="false">Logic</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4) The scan time of DCS is fixed. This statement is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">False</choice>
+    <choice correct="false">True</choice>
+    <choice correct="false">Can't comment</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5) Generally in DCS ------------- is used as a programming language.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Instruction listing</choice>
+    <choice correct="true">Functional block diagram</choice>
+    <choice correct="false">Ladder diagram</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

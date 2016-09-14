@@ -1,0 +1,49 @@
+<problem display_name="Multiple Choice" markdown="&#10;1. In case of retentive timer, the accumulated value&#10;() is made equal to preset on power failure&#10;() resets on power failure&#10;(x) is maintained /hold on power failure&#10;&#10;2) Which of the following counters counts input pulses in decreasing manner?&#10;(x) Down Counter&#10;() Up Counter&#10;() Up Down Counter&#10;&#10;3) OND stands for On Delay timer.&#10;() False&#10;(x) True&#10;() Can't say&#10;&#10;4) Which of the following is an example for On Delay Timer application?&#10;() Emptying a tank&#10;() Filling a tank&#10;(x) Explosion of fire cracker&#10;&#10;5) Which type of pulse is used for off delay timer?&#10;(x) High to low&#10;() Low to high&#10;() None of the above&#10;&#10;">
+
+<p>1. In case of retentive timer, the accumulated value</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">is made equal to preset on power failure</choice>
+    <choice correct="false">resets on power failure</choice>
+    <choice correct="true">is maintained /hold on power failure</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2) Which of the following counters counts input pulses in decreasing manner?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Down Counter</choice>
+    <choice correct="false">Up Counter</choice>
+    <choice correct="false">Up Down Counter</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3) OND stands for On Delay timer.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">False</choice>
+    <choice correct="true">True</choice>
+    <choice correct="false">Can't say</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4) Which of the following is an example for On Delay Timer application?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Emptying a tank</choice>
+    <choice correct="false">Filling a tank</choice>
+    <choice correct="true">Explosion of fire cracker</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5) Which type of pulse is used for off delay timer?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">High to low</choice>
+    <choice correct="false">Low to high</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
