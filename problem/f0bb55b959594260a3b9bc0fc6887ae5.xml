@@ -1,0 +1,19 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Centum CS3000 is a product of&lt;&lt;&#10;     (x) Yokogawa&#10;     ( ) Honeywell&#10;     ( ) ABB&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]">
+<p>Centum CS3000 is a product of</p>
+<multiplechoiceresponse>
+  <choicegroup label="Centum CS3000 is a product of" type="MultipleChoice">
+    <choice correct="true">Yokogawa</choice>
+    <choice correct="false">Honeywell</choice>
+    <choice correct="false">ABB</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+</problem>

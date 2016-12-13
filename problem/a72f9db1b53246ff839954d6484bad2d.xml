@@ -1,0 +1,16 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;What is full form of DCS?&lt;&lt;&#10;     ( ) Digital Control System&#10;     ( ) De Centralized System&#10;     (x) Distributed Control System&#10;     &#10;[explanation]&#10;Give Explanation&#10;[explanation]">
+  <p>What is full form of DCS?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is full form of DCS?" type="MultipleChoice">
+      <choice correct="false">Digital Control System</choice>
+      <choice correct="false">De Centralized System</choice>
+      <choice correct="true">Distributed Control System</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+</problem>

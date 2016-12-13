@@ -1,0 +1,16 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Which of the following is not an automation tool?&lt;&lt;&#10;     ( ) PLC&#10;     ( ) DCS&#10;     (x)  Solenoid valve&#10;     &#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;">
+  <p>Which of the following is not an automation tool?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Which of the following is not an automation tool?" type="MultipleChoice">
+      <choice correct="false">PLC</choice>
+      <choice correct="false">DCS</choice>
+      <choice correct="true">Solenoid valve</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+</problem>

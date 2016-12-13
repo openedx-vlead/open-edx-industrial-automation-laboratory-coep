@@ -1,0 +1,16 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;If any one of the two inputs goes high the output is high. To achieve this condition the function block to be used is ---------.&lt;&lt;&#10;     ( ) NOT&#10;     ( ) AND&#10;     (x) OR&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]">
+  <p>If any one of the two inputs goes high the output is high. To achieve this condition the function block to be used is ---------.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="If any one of the two inputs goes high the output is high. To achieve this condition the function block to be used is ---------." type="MultipleChoice">
+      <choice correct="false">NOT</choice>
+      <choice correct="false">AND</choice>
+      <choice correct="true">OR</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+</problem>

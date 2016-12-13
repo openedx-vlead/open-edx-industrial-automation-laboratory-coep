@@ -1,0 +1,19 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;The PID function is available in ---------- block category&lt;&lt;&#10;     (x) Analog control&#10;     ( ) Math&#10;     ( ) Logic&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]">
+<p>The PID function is available in ---------- block category</p>
+<multiplechoiceresponse>
+  <choicegroup label="The PID function is available in ---------- block category" type="MultipleChoice">
+    <choice correct="true">Analog control</choice>
+    <choice correct="false">Math</choice>
+    <choice correct="false">Logic</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+</problem>

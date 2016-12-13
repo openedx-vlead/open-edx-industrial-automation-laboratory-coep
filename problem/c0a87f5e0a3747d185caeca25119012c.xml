@@ -1,0 +1,92 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;In the model solution provided the field start command is ----- to start the process.&lt;&lt;&#10;     ( ) Not important&#10;     ( ) Optional&#10;     (x) Mandatory&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;The operation of lifting bottle platform and opening of coarse solenoid valve :&lt;&lt;&#10;     ( ) Must be Simultaneous&#10;     ( ) Coarse valve must open first&#10;     (x) Solenoid valve should open after delay&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;To display no of bottles filled ----- function block is used&lt;&lt;&#10;     ( ) OND&#10;     (x) CTR&#10;     ( ) Both&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;Number of Dos involved in this process&lt;&lt;&#10;     ( ) 2&#10;     (x) 4&#10;     ( ) 6&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;Number of DIs involved in this process&lt;&lt;&#10;     (x) 3&#10;     ( ) 5&#10;     ( ) 7&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;">
+<p>In the model solution provided the field start command is ----- to start the process.</p>
+<multiplechoiceresponse>
+  <choicegroup label="In the model solution provided the field start command is ----- to start the process." type="MultipleChoice">
+    <choice correct="false">Not important</choice>
+    <choice correct="false">Optional</choice>
+    <choice correct="true">Mandatory</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+
+<p>The operation of lifting bottle platform and opening of coarse solenoid valve :</p>
+<multiplechoiceresponse>
+  <choicegroup label="The operation of lifting bottle platform and opening of coarse solenoid valve :" type="MultipleChoice">
+    <choice correct="false">Must be Simultaneous</choice>
+    <choice correct="false">Coarse valve must open first</choice>
+    <choice correct="true">Solenoid valve should open after delay</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+
+<p>To display no of bottles filled ----- function block is used</p>
+<multiplechoiceresponse>
+  <choicegroup label="To display no of bottles filled ----- function block is used" type="MultipleChoice">
+    <choice correct="false">OND</choice>
+    <choice correct="true">CTR</choice>
+    <choice correct="false">Both</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+
+<p>Number of Dos involved in this process</p>
+<multiplechoiceresponse>
+  <choicegroup label="Number of Dos involved in this process" type="MultipleChoice">
+    <choice correct="false">2</choice>
+    <choice correct="true">4</choice>
+    <choice correct="false">6</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+
+<p>Number of DIs involved in this process</p>
+<multiplechoiceresponse>
+  <choicegroup label="Number of DIs involved in this process" type="MultipleChoice">
+    <choice correct="true">3</choice>
+    <choice correct="false">5</choice>
+    <choice correct="false">7</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+
+</problem>

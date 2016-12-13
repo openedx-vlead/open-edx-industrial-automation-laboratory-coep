@@ -1,0 +1,16 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt; Which of the following is an example of closed loop control&lt;&lt;&#10;     ( ) A valve getting signal from controller to maintain temperature depending on the temperature sensed by the sensor&#10;     ( ) A car driven by a drive&#10;     (x) Both a and b&#10;     &#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;">
+  <p> Which of the following is an example of closed loop control</p>
+  <multiplechoiceresponse>
+    <choicegroup label=" Which of the following is an example of closed loop control" type="MultipleChoice">
+      <choice correct="false">A valve getting signal from controller to maintain temperature depending on the temperature sensed by the sensor</choice>
+      <choice correct="false">A car driven by a drive</choice>
+      <choice correct="true">Both a and b</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+</problem>

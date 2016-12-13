@@ -1,0 +1,16 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Which one of the following defines Distributed Control System?&lt;&lt;&#10;     ( ) Control system which is physically distributed&#10;     ( ) Control system which is functionally distributed&#10;     (x)Control system which is functionally as well as physically distributed&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]">
+  <p>Which one of the following defines Distributed Control System?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Which one of the following defines Distributed Control System?" type="MultipleChoice">
+      <choice correct="false">Control system which is physically distributed</choice>
+      <choice correct="false">Control system which is functionally distributed</choice>
+      <choice correct="true">Control system which is functionally as well as physically distributed</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+</problem>

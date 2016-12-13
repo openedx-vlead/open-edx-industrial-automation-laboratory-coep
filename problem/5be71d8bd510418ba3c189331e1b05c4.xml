@@ -1,0 +1,19 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Which card is used for sensing input from RTD or Thermocouple?&lt;&lt;&#10;     ( ) Digital Input card&#10;     (x) Analog Input card&#10;     ( ) Analog Output card&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]">
+<p>Which card is used for sensing input from RTD or Thermocouple?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which card is used for sensing input from RTD or Thermocouple?" type="MultipleChoice">
+    <choice correct="false">Digital Input card</choice>
+    <choice correct="true">Analog Input card</choice>
+    <choice correct="false">Analog Output card</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+</problem>
