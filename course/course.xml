@@ -1,0 +1,13 @@
+<course advertised_start="Anytime" course_image="icons_Industrial Automation.png" display_name="Industrial Automation Laboratory" end="null" enrollment_end="null" enrollment_start="null" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-04-01T00:00:00+00:00&quot;">
+  <chapter url_name="d45fbd59036e4f54aa447af3b399dcdc"/>
+  <chapter url_name="Study_hardware_and_software_platforms_for_DCS"/>
+  <chapter url_name="Simulate_analog_and_digital_function_blocks"/>
+  <chapter url_name="2db2899c0ace40cfb6713d4b2d8ff160"/>
+  <chapter url_name="Logic_implementation_for_traffic_Control_Application"/>
+  <chapter url_name="Logic_implementation_for_Bottle_Filling_Application"/>
+  <chapter url_name="Tune_PID_controller_for_heat_exchanger_using_DCS"/>
+  <chapter url_name="FBD_for_autoclavable_laboratory_fermentor"/>
+  <chapter url_name="Develop_graphical_user_interface_for_the_fermentor_plant"/>
+  <chapter url_name="76b44f7e9ef142d489e56bbdb2fe26ef"/>
+  <wiki slug="COEP.EEE09.Anytime"/>
+</course>

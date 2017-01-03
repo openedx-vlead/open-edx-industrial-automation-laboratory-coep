@@ -1,0 +1,19 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;System reliability in case of DCS is&lt;&lt;&#10;     (x) High&#10;     ( ) Moderate&#10;     ( ) Less&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]">
+<p>System reliability in case of DCS is</p>
+<multiplechoiceresponse>
+  <choicegroup label="System reliability in case of DCS is" type="MultipleChoice">
+    <choice correct="true">High</choice>
+    <choice correct="false">Moderate</choice>
+    <choice correct="false">Less</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+</problem>

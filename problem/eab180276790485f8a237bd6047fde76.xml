@@ -1,0 +1,91 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;In the solution provided Pulse input (PIN) function block is used to&lt;&lt;&#10;     ( ) Hold the process&#10;     (x) Start the process&#10;     ( ) Stop the process&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;For keeping green light ON ---- input AND gate is used&lt;&lt;&#10;     ( ) Two&#10;     (x) Three&#10;     ( ) Four&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;The inverted output is available with&lt;&lt;&#10;     ( ) PIN function block&#10;     ( ) Negate function block&#10;     (x) NOT function block&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;The total duration for which the red light is kept on is --------&lt;&lt;&#10;     ( ) 5 sec&#10;     ( ) 25 sec&#10;     (x) 30 sec&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;For stopping the sequence, simulate input to the PIN block is&lt;&lt;&#10;     (x) Made '0'&#10;     ( ) To be disabled&#10;     ( ) Made '1'&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]">
+<p>In the solution provided Pulse input (PIN) function block is used to</p>
+<multiplechoiceresponse>
+  <choicegroup label="In the solution provided Pulse input (PIN) function block is used to" type="MultipleChoice">
+    <choice correct="false">Hold the process</choice>
+    <choice correct="true">Start the process</choice>
+    <choice correct="false">Stop the process</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+
+<p>For keeping green light ON ---- input AND gate is used</p>
+<multiplechoiceresponse>
+  <choicegroup label="For keeping green light ON ---- input AND gate is used" type="MultipleChoice">
+    <choice correct="false">Two</choice>
+    <choice correct="true">Three</choice>
+    <choice correct="false">Four</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+
+<p>The inverted output is available with</p>
+<multiplechoiceresponse>
+  <choicegroup label="The inverted output is available with" type="MultipleChoice">
+    <choice correct="false">PIN function block</choice>
+    <choice correct="false">Negate function block</choice>
+    <choice correct="true">NOT function block</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+
+<p>The total duration for which the red light is kept on is --------</p>
+<multiplechoiceresponse>
+  <choicegroup label="The total duration for which the red light is kept on is --------" type="MultipleChoice">
+    <choice correct="false">5 sec</choice>
+    <choice correct="false">25 sec</choice>
+    <choice correct="true">30 sec</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+
+<p>For stopping the sequence, simulate input to the PIN block is</p>
+<multiplechoiceresponse>
+  <choicegroup label="For stopping the sequence, simulate input to the PIN block is" type="MultipleChoice">
+    <choice correct="true">Made '0'</choice>
+    <choice correct="false">To be disabled</choice>
+    <choice correct="false">Made '1'</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+</problem>

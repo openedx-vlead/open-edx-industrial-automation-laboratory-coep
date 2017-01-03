@@ -1,0 +1,20 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Which type of pulse is used for off delay timer?&lt;&lt;&#10;     (x) High to low&#10;     ( ) Low to high&#10;     ( ) None of the above&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;">
+<p>Which type of pulse is used for off delay timer?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which type of pulse is used for off delay timer?" type="MultipleChoice">
+    <choice correct="true">High to low</choice>
+    <choice correct="false">Low to high</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Give Explanation</p>
+
+</div>
+</solution>
+
+</problem>
