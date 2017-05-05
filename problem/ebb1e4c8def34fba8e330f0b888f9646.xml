@@ -1,19 +1,16 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;Generally in DCS ------------- is used as a programming language.&lt;&lt;&#10;     ( ) Instruction listing&#10;     (x) Functional block diagram&#10;     ( ) Ladder diagram&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]">
-<p>Generally in DCS ------------- is used as a programming language.</p>
-<multiplechoiceresponse>
-  <choicegroup label="Generally in DCS ------------- is used as a programming language." type="MultipleChoice">
-    <choice correct="false">Instruction listing</choice>
-    <choice correct="true">Functional block diagram</choice>
-    <choice correct="false">Ladder diagram</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
+  <p>Generally in DCS ------------- is used as a programming language.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Generally in DCS ------------- is used as a programming language." type="MultipleChoice">
+      <choice correct="false">Instruction listing</choice>
+      <choice correct="true">Functional block diagram</choice>
+      <choice correct="false">Ladder diagram</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
 </problem>

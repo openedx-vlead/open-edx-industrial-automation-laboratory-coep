@@ -1,19 +1,16 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;Limit function is available under ----- library in DCS.&lt;&lt;&#10;     ( ) Logical&#10;     (x) Analog control&#10;     ( ) Timer/ counter&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]">
-<p>Limit function is available under ----- library in DCS.</p>
-<multiplechoiceresponse>
-  <choicegroup label="Limit function is available under ----- library in DCS." type="MultipleChoice">
-    <choice correct="false">Logical</choice>
-    <choice correct="true">Analog control</choice>
-    <choice correct="false">Timer/ counter</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
+  <p>Limit function is available under ----- library in DCS.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Limit function is available under ----- library in DCS." type="MultipleChoice">
+      <choice correct="false">Logical</choice>
+      <choice correct="true">Analog control</choice>
+      <choice correct="false">Timer/ counter</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
 </problem>

@@ -1,92 +1,72 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;OFFD stands for&lt;&lt;&#10;     (x) OFF delay timer&#10;     ( ) OFF discrete Output&#10;     ( ) OFF discrete input&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;PIN stands for&lt;&lt;&#10;     ( ) Peak Input&#10;     ( ) Pulse Output&#10;     (x) Pulse Input&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;The NOT block is available under ------ library&lt;&lt;&#10;     ( ) Math&#10;     ( ) IO&#10;     (x) Logical&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;In retentive timer, what happens in case of input/ supply failure?&lt;&lt;&#10;     ( ) The accumulated value goes back to zero&#10;     (x) The accumulated value is retained&#10;     ( ) Can’t predict the status of accumulator&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;Traffic Control is example of -------- control system.&lt;&lt;&#10;     (x) Open loop&#10;     ( ) Cascade&#10;     ( ) Closed loop&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;">
-<p>OFFD stands for</p>
-<multiplechoiceresponse>
-  <choicegroup label="OFFD stands for" type="MultipleChoice">
-    <choice correct="true">OFF delay timer</choice>
-    <choice correct="false">OFF discrete Output</choice>
-    <choice correct="false">OFF discrete input</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>PIN stands for</p>
-<multiplechoiceresponse>
-  <choicegroup label="PIN stands for" type="MultipleChoice">
-    <choice correct="false">Peak Input</choice>
-    <choice correct="false">Pulse Output</choice>
-    <choice correct="true">Pulse Input</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>The NOT block is available under ------ library</p>
-<multiplechoiceresponse>
-  <choicegroup label="The NOT block is available under ------ library" type="MultipleChoice">
-    <choice correct="false">Math</choice>
-    <choice correct="false">IO</choice>
-    <choice correct="true">Logical</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>In retentive timer, what happens in case of input/ supply failure?</p>
-<multiplechoiceresponse>
-  <choicegroup label="In retentive timer, what happens in case of input/ supply failure?" type="MultipleChoice">
-    <choice correct="false">The accumulated value goes back to zero</choice>
-    <choice correct="true">The accumulated value is retained</choice>
-    <choice correct="false">Can’t predict the status of accumulator</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>Traffic Control is example of -------- control system.</p>
-<multiplechoiceresponse>
-  <choicegroup label="Traffic Control is example of -------- control system." type="MultipleChoice">
-    <choice correct="true">Open loop</choice>
-    <choice correct="false">Cascade</choice>
-    <choice correct="false">Closed loop</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
+  <p>OFFD stands for</p>
+  <multiplechoiceresponse>
+    <choicegroup label="OFFD stands for" type="MultipleChoice">
+      <choice correct="true">OFF delay timer</choice>
+      <choice correct="false">OFF discrete Output</choice>
+      <choice correct="false">OFF discrete input</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>PIN stands for</p>
+  <multiplechoiceresponse>
+    <choicegroup label="PIN stands for" type="MultipleChoice">
+      <choice correct="false">Peak Input</choice>
+      <choice correct="false">Pulse Output</choice>
+      <choice correct="true">Pulse Input</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>The NOT block is available under ------ library</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The NOT block is available under ------ library" type="MultipleChoice">
+      <choice correct="false">Math</choice>
+      <choice correct="false">IO</choice>
+      <choice correct="true">Logical</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>In retentive timer, what happens in case of input/ supply failure?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In retentive timer, what happens in case of input/ supply failure?" type="MultipleChoice">
+      <choice correct="false">The accumulated value goes back to zero</choice>
+      <choice correct="true">The accumulated value is retained</choice>
+      <choice correct="false">Can’t predict the status of accumulator</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>Traffic Control is example of -------- control system.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Traffic Control is example of -------- control system." type="MultipleChoice">
+      <choice correct="true">Open loop</choice>
+      <choice correct="false">Cascade</choice>
+      <choice correct="false">Closed loop</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
 </problem>

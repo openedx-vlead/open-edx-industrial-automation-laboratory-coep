@@ -1,73 +1,58 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;CTR function block stands for&lt;&lt;&#10;     ( ) Counter and Timer&#10;     (x) Counter&#10;     ( ) Clock timer&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;The limit switch is --------------&lt;&lt;&#10;     ( ) Digital Output&#10;     (x) Digital Input&#10;     ( ) Analog Input&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;Solenoid Valve is -------&lt;&lt;&#10;     ( ) Analog Input&#10;     ( ) Digital input&#10;     (x) Digital output&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;To manually change the input to the function block, the simulate input must be&lt;&lt;&#10;     ( ) Kept in default condition&#10;     ( ) Disabled&#10;     (x) Enabled&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]">
-<p>CTR function block stands for</p>
-<multiplechoiceresponse>
-  <choicegroup label="CTR function block stands for" type="MultipleChoice">
-    <choice correct="false">Counter and Timer</choice>
-    <choice correct="true">Counter</choice>
-    <choice correct="false">Clock timer</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>The limit switch is --------------</p>
-<multiplechoiceresponse>
-  <choicegroup label="The limit switch is --------------" type="MultipleChoice">
-    <choice correct="false">Digital Output</choice>
-    <choice correct="true">Digital Input</choice>
-    <choice correct="false">Analog Input</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>Solenoid Valve is -------</p>
-<multiplechoiceresponse>
-  <choicegroup label="Solenoid Valve is -------" type="MultipleChoice">
-    <choice correct="false">Analog Input</choice>
-    <choice correct="false">Digital input</choice>
-    <choice correct="true">Digital output</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>To manually change the input to the function block, the simulate input must be</p>
-<multiplechoiceresponse>
-  <choicegroup label="To manually change the input to the function block, the simulate input must be" type="MultipleChoice">
-    <choice correct="false">Kept in default condition</choice>
-    <choice correct="false">Disabled</choice>
-    <choice correct="true">Enabled</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
+  <p>CTR function block stands for</p>
+  <multiplechoiceresponse>
+    <choicegroup label="CTR function block stands for" type="MultipleChoice">
+      <choice correct="false">Counter and Timer</choice>
+      <choice correct="true">Counter</choice>
+      <choice correct="false">Clock timer</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>The limit switch is --------------</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The limit switch is --------------" type="MultipleChoice">
+      <choice correct="false">Digital Output</choice>
+      <choice correct="true">Digital Input</choice>
+      <choice correct="false">Analog Input</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>Solenoid Valve is -------</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Solenoid Valve is -------" type="MultipleChoice">
+      <choice correct="false">Analog Input</choice>
+      <choice correct="false">Digital input</choice>
+      <choice correct="true">Digital output</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>To manually change the input to the function block, the simulate input must be</p>
+  <multiplechoiceresponse>
+    <choicegroup label="To manually change the input to the function block, the simulate input must be" type="MultipleChoice">
+      <choice correct="false">Kept in default condition</choice>
+      <choice correct="false">Disabled</choice>
+      <choice correct="true">Enabled</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
 </problem>
