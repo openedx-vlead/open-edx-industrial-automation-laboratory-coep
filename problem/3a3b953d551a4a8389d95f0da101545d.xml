@@ -1,97 +1,77 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;A process equipment in which biological conversion takes place is called as&lt;&lt;&#10;     ( ) Bioreactor&#10;     ( ) Fermenter&#10;     ( ) Bioprocess&#10;     (x) Bioreactor/ Fermenter&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;Autoclave is used for&lt;&lt;&#10;     (x) Sterilization&#10;     ( ) Filtration&#10;     ( ) Evaporation&#10;     ( ) Distillation&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;The time for autoclaving depends on&lt;&lt;&#10;     ( ) Contents Quality&#10;     (x) Contents Quantity&#10;     ( ) Quality and Quantity&#10;     ( ) None of these&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;For controlling solid bed temperature ---- is used as the manipulated variable&lt;&lt;&#10;     ( ) Tank water flow rate&#10;     ( ) Acid flow rate&#10;     (x) Jacket coolant flow rate&#10;     ( ) Saturated sterile air flow rate&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;------- control scheme is preferred to control bed temperature in fermenter&lt;&lt;&#10;     (x) PID&#10;     ( ) On-Off&#10;     ( ) Manual&#10;     ( ) MPC&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;">
-<p>A process equipment in which biological conversion takes place is called as</p>
-<multiplechoiceresponse>
-  <choicegroup label="A process equipment in which biological conversion takes place is called as" type="MultipleChoice">
-    <choice correct="false">Bioreactor</choice>
-    <choice correct="false">Fermenter</choice>
-    <choice correct="false">Bioprocess</choice>
-    <choice correct="true">Bioreactor/ Fermenter</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>Autoclave is used for</p>
-<multiplechoiceresponse>
-  <choicegroup label="Autoclave is used for" type="MultipleChoice">
-    <choice correct="true">Sterilization</choice>
-    <choice correct="false">Filtration</choice>
-    <choice correct="false">Evaporation</choice>
-    <choice correct="false">Distillation</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>The time for autoclaving depends on</p>
-<multiplechoiceresponse>
-  <choicegroup label="The time for autoclaving depends on" type="MultipleChoice">
-    <choice correct="false">Contents Quality</choice>
-    <choice correct="true">Contents Quantity</choice>
-    <choice correct="false">Quality and Quantity</choice>
-    <choice correct="false">None of these</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>For controlling solid bed temperature ---- is used as the manipulated variable</p>
-<multiplechoiceresponse>
-  <choicegroup label="For controlling solid bed temperature ---- is used as the manipulated variable" type="MultipleChoice">
-    <choice correct="false">Tank water flow rate</choice>
-    <choice correct="false">Acid flow rate</choice>
-    <choice correct="true">Jacket coolant flow rate</choice>
-    <choice correct="false">Saturated sterile air flow rate</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>------- control scheme is preferred to control bed temperature in fermenter</p>
-<multiplechoiceresponse>
-  <choicegroup label="------- control scheme is preferred to control bed temperature in fermenter" type="MultipleChoice">
-    <choice correct="true">PID</choice>
-    <choice correct="false">On-Off</choice>
-    <choice correct="false">Manual</choice>
-    <choice correct="false">MPC</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
+  <p>A process equipment in which biological conversion takes place is called as</p>
+  <multiplechoiceresponse>
+    <choicegroup label="A process equipment in which biological conversion takes place is called as" type="MultipleChoice">
+      <choice correct="false">Bioreactor</choice>
+      <choice correct="false">Fermenter</choice>
+      <choice correct="false">Bioprocess</choice>
+      <choice correct="true">Bioreactor/ Fermenter</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>Autoclave is used for</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Autoclave is used for" type="MultipleChoice">
+      <choice correct="true">Sterilization</choice>
+      <choice correct="false">Filtration</choice>
+      <choice correct="false">Evaporation</choice>
+      <choice correct="false">Distillation</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>The time for autoclaving depends on</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The time for autoclaving depends on" type="MultipleChoice">
+      <choice correct="false">Contents Quality</choice>
+      <choice correct="true">Contents Quantity</choice>
+      <choice correct="false">Quality and Quantity</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>For controlling solid bed temperature ---- is used as the manipulated variable</p>
+  <multiplechoiceresponse>
+    <choicegroup label="For controlling solid bed temperature ---- is used as the manipulated variable" type="MultipleChoice">
+      <choice correct="false">Tank water flow rate</choice>
+      <choice correct="false">Acid flow rate</choice>
+      <choice correct="true">Jacket coolant flow rate</choice>
+      <choice correct="false">Saturated sterile air flow rate</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>------- control scheme is preferred to control bed temperature in fermenter</p>
+  <multiplechoiceresponse>
+    <choicegroup label="------- control scheme is preferred to control bed temperature in fermenter" type="MultipleChoice">
+      <choice correct="true">PID</choice>
+      <choice correct="false">On-Off</choice>
+      <choice correct="false">Manual</choice>
+      <choice correct="false">MPC</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
 </problem>

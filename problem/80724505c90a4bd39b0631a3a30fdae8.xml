@@ -1,96 +1,77 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;SCADA is used&lt;&lt;&#10;     ( ) as a standalone system&#10;     (x) along with PLCs&#10;     ( ) as a standalone system or with DCS&#10;     ( ) as standalone system with DCS&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;SCADA stands for&lt;&lt;&#10;     ( ) Sequential control and Data acquisition system&#10;     ( ) Sequential control and Digital-to-Analog conversion&#10;     (x) Supervisory control and Data acquisition system&#10;     ( ) Supervisory control and Digital-to-Analog conversion&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;Main Difference between PLC and DCS with respect to operator interface is&lt;&lt;&#10;     ( ) Operator interface (SCADA) is not available in DCS&#10;     ( ) Can't Say&#10;     ( ) SCADA is integral part of PLC&#10;     (x) SCADA is integral part of DCS&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;The operator interface provides information related to&lt;&lt;&#10;     ( ) Indicators&#10;     ( ) Alarms&#10;     ( ) Process status&#10;     (x) All of these&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;The term HMI stands for&lt;&lt;&#10;     (x) Human Machine Interface&#10;     ( ) Human Man Interface&#10;     ( ) Huge Machine Interface&#10;     ( ) Human Machine Interlocks&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]">
-<p>SCADA is used</p>
-<multiplechoiceresponse>
-  <choicegroup label="SCADA is used" type="MultipleChoice">
-    <choice correct="false">as a standalone system</choice>
-    <choice correct="true">along with PLCs</choice>
-    <choice correct="false">as a standalone system or with DCS</choice>
-    <choice correct="false">as standalone system with DCS</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>SCADA stands for</p>
-<multiplechoiceresponse>
-  <choicegroup label="SCADA stands for" type="MultipleChoice">
-    <choice correct="false">Sequential control and Data acquisition system</choice>
-    <choice correct="false">Sequential control and Digital-to-Analog conversion</choice>
-    <choice correct="true">Supervisory control and Data acquisition system</choice>
-    <choice correct="false">Supervisory control and Digital-to-Analog conversion</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>Main Difference between PLC and DCS with respect to operator interface is</p>
-<multiplechoiceresponse>
-  <choicegroup label="Main Difference between PLC and DCS with respect to operator interface is" type="MultipleChoice">
-    <choice correct="false">Operator interface (SCADA) is not available in DCS</choice>
-    <choice correct="false">Can't Say</choice>
-    <choice correct="false">SCADA is integral part of PLC</choice>
-    <choice correct="true">SCADA is integral part of DCS</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>The operator interface provides information related to</p>
-<multiplechoiceresponse>
-  <choicegroup label="The operator interface provides information related to" type="MultipleChoice">
-    <choice correct="false">Indicators</choice>
-    <choice correct="false">Alarms</choice>
-    <choice correct="false">Process status</choice>
-    <choice correct="true">All of these</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>The term HMI stands for</p>
-<multiplechoiceresponse>
-  <choicegroup label="The term HMI stands for" type="MultipleChoice">
-    <choice correct="true">Human Machine Interface</choice>
-    <choice correct="false">Human Man Interface</choice>
-    <choice correct="false">Huge Machine Interface</choice>
-    <choice correct="false">Human Machine Interlocks</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
+  <p>SCADA is used</p>
+  <multiplechoiceresponse>
+    <choicegroup label="SCADA is used" type="MultipleChoice">
+      <choice correct="false">as a standalone system</choice>
+      <choice correct="true">along with PLCs</choice>
+      <choice correct="false">as a standalone system or with DCS</choice>
+      <choice correct="false">as standalone system with DCS</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>SCADA stands for</p>
+  <multiplechoiceresponse>
+    <choicegroup label="SCADA stands for" type="MultipleChoice">
+      <choice correct="false">Sequential control and Data acquisition system</choice>
+      <choice correct="false">Sequential control and Digital-to-Analog conversion</choice>
+      <choice correct="true">Supervisory control and Data acquisition system</choice>
+      <choice correct="false">Supervisory control and Digital-to-Analog conversion</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>Main Difference between PLC and DCS with respect to operator interface is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Main Difference between PLC and DCS with respect to operator interface is" type="MultipleChoice">
+      <choice correct="false">Operator interface (SCADA) is not available in DCS</choice>
+      <choice correct="false">Can't Say</choice>
+      <choice correct="false">SCADA is integral part of PLC</choice>
+      <choice correct="true">SCADA is integral part of DCS</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>The operator interface provides information related to</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The operator interface provides information related to" type="MultipleChoice">
+      <choice correct="false">Indicators</choice>
+      <choice correct="false">Alarms</choice>
+      <choice correct="false">Process status</choice>
+      <choice correct="true">All of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>The term HMI stands for</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The term HMI stands for" type="MultipleChoice">
+      <choice correct="true">Human Machine Interface</choice>
+      <choice correct="false">Human Man Interface</choice>
+      <choice correct="false">Huge Machine Interface</choice>
+      <choice correct="false">Human Machine Interlocks</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
 </problem>

@@ -1,19 +1,16 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;What is the output of OR block if any one of the input is high or active or true?&lt;&lt;&#10;    (x) 1&#10;    ( ) 0&#10;    ( ) Can't say&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]">
-<p>What is the output of OR block if any one of the input is high or active or true?</p>
-<multiplechoiceresponse>
-  <choicegroup label="What is the output of OR block if any one of the input is high or active or true?" type="MultipleChoice">
-    <choice correct="true">1</choice>
-    <choice correct="false">0</choice>
-    <choice correct="false">Can't say</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
+  <p>What is the output of OR block if any one of the input is high or active or true?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is the output of OR block if any one of the input is high or active or true?" type="MultipleChoice">
+      <choice correct="true">1</choice>
+      <choice correct="false">0</choice>
+      <choice correct="false">Can't say</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
 </problem>
