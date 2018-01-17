@@ -3,21 +3,21 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "EEE09", 
+            "course": "ee09", 
             "name": "icons_Industrial_Automation.png", 
-            "org": "COE-Pune", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "icons_Industrial Automation.png", 
-        "filename": "asset-v1:COE-Pune+EEE09+Anytime+type@asset+block@icons_Industrial_Automation.png", 
+        "filename": "asset-v1:Virtual-Labs+ee09+Anytime+type@asset+block@icons_Industrial_Automation.png", 
         "import_path": "icons_Industrial Automation.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "COE-Pune", 
-            "EEE09", 
+            "Virtual-Labs", 
+            "ee09", 
             "thumbnail", 
             "icons_Industrial_Automation-png.jpg", 
             null
